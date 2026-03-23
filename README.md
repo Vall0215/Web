@@ -5,7 +5,7 @@ Aplicación web desarrollada en **React** que permite calcular la resistencia de
 ---
 
 ## Link web
-🔗 https://web-xxxxx.vercel.app  
+🔗 https://web-swart-eight-79.vercel.app/  
 
 ---
 
