@@ -31,5 +31,5 @@ Aplicación web desarrollada en **React** que permite calcular la resistencia de
 
 - React.js
 - JavaScript
-- HTML5
-- CSS3
+- HTML
+- CSS
